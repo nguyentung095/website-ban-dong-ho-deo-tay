@@ -39,7 +39,7 @@
                         </h1>
                     </div>
                     <div class="col-lg-12">
-                        <h1 class="page-header">Hóa đơn
+                        <h1 class="page-header">Hóa đơn sửa
                             <small>Danh sách</small>
                         </h1>
                     </div>
