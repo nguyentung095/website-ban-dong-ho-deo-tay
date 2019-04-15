@@ -9,7 +9,7 @@
                         </h1>
                     </div>
                     <div class="col-lg-12">
-                        <h1 class="page-header">Tin tức
+                        <h1 class="page-header">Tin tức sửa
                         <small>Thêm mới</small>
                         </h1>
                         <?php 
