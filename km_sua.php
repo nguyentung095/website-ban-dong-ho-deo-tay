@@ -8,7 +8,7 @@
                         </h1>
                     </div>
                     <div class="col-lg-12">
-                        <h1 class="page-header">Khuyến mãi
+                        <h1 class="page-header">Khuyến mãi sua sua
                         <small>Sửa</small>
                         </h1>
                     </div>
